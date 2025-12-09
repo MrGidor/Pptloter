@@ -1,0 +1,16 @@
+2. Dia: Bevezetés (Előadó: "A")
+„Sziasztok! A Cyber Range-ről lesz szó. Képzeljétek el ezt úgy, mint a pilótáknak a szimulátort, csak informatikusoknak. Ez egy biztonságos, zárt rendszer, ahol valódi vírusokat eresztünk szabadjára, hogy gyakoroljunk.
+A felállás egyszerű: a Piros csapat támad, a Kék csapat védekezik, a Fehér csapat pedig bíróként felügyeli a meccset. Három konkrét példát hoztunk arra, mit is gyakorolnak itt.”
+3. Dia: Webes támadás (Előadó: "A")
+„Az első eset a leggyakoribb: feltörik a cég weboldalát. A támadók célja kettős: átírni a főoldalt, hogy lejárassák a céget, és a háttérben ellopni az ügyféladatokat.
+A védőknek itt nem elég újraindítani a szervert. A naplófájlokból meg kell találniuk a biztonsági rést, be kell foltozniuk a kódot, és csak ezután állíthatják vissza az oldalt egy tiszta mentésből.”
+(Itt váltás történik)
+4. Dia: Zsarolóvírus / Ransomware (Előadó: "B")
+„A legveszélyesebb forgatókönyv a zsarolóvírus. Ez általában egyetlen rossz kattintással indul egy e-mailben. A vírus ezután oldalirányban terjedni kezd, hogy mindent titkosítson.
+A lőtéren itt a gyors döntést gyakorolják: a védőknek másodperceik vannak arra, hogy leválasszák a fertőzött részt a hálózatról, mielőtt a teljes rendszer megbénulna.”
+5. Dia: Ipari rendszerek / SCADA (Előadó: "B")
+„Ez a legnehezebb pálya: amikor gyárakat vagy erőműveket támadnak. Itt nem adatlopás a cél, hanem fizikai kár okozása – például egy tartály felrobbantása.
+A támadók becsapják a szenzorokat, így a monitorok hamis értékeket mutatnak. A védők feladata, hogy észrevegyék a csalást, és azonnal átvegyék a kézi irányítást, hogy elkerüljék a katasztrófát.”
+6-7. Dia: Összegzés (Előadó: "B")
+„Végül: miért éri meg ez a szimuláció? Mert kialakul az izommemória.
+Ha a csapat itt begyakorolja a védelmet, akkor éles helyzetben nem fognak pánikolni, hanem a terv szerint cselekszenek. Ezzel rengeteg pénzt spórolhatnak meg a cégnek egy valódi támadáskor. Köszönjük a figyelmet!”
